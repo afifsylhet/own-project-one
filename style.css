@@ -1,0 +1,30 @@
+
+body {
+
+	background: url(background.jpg);
+	background-size: cover;
+	background-position: center;
+	color: white;
+	text-align: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+}
+
+
+hr {
+	width: 56%;
+	margin-left: 22%;
+
+}
+
+.content {
+	text-align: center;
+	margin-top: 20%;
+}
+
+html {
+	width: 100%;
+	height: auto;
+}
+
